@@ -8,6 +8,6 @@ python3 scheduler.py processos.txt
 
 where processos.txt is the file that contains the description of the processes in the following format:
 
-ID Arrival Length
+[ID] [Arrival] [Length]
 
 
