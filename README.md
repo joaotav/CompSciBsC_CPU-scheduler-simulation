@@ -1,4 +1,4 @@
-# CPU-scheduler-simulation
+# CPU Scheduling Visualization
 
 
 This code simulates a CPU scheduler using three different strategies: First-come, First-Served; Preemptive Shortest Job First; Round-Robin.
