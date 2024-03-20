@@ -28,9 +28,13 @@ The `processes.txt` file should contain one process per line, formatted as follo
 
 **Example:**
 
-1 0 5 \
-2 1 3 \
-3 2 4 
+A 0 4 \
+B 1 3 \
+C 2 4 \
+D 3 3 \
+E 3 1 \
+F 7 3 \
+G 8 2
 
 
 
