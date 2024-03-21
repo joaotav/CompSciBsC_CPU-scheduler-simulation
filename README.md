@@ -28,13 +28,15 @@ The `processes.txt` file should contain one process per line, formatted as follo
 
 **Example:**
 
-A 0 4 \
-B 1 3 \
-C 2 4 \
-D 3 3 \
-E 3 1 \
-F 7 3 \
+```
+A 0 4 
+B 1 3 
+C 2 4 
+D 3 3 
+E 3 1 
+F 7 3 
 G 8 2
+```
 
 **Output when running the above example using Round-Robin with a quantum size of 1:**
 
