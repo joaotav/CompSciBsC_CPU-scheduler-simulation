@@ -36,8 +36,9 @@ E 3 1 \
 F 7 3 \
 G 8 2
 
+**Output when running the above example using Round-Robin with a quantum size of 1:**
 
-
+![Example](img/execution_example.png)
 
 
 
